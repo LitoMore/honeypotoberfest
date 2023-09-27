@@ -12,9 +12,25 @@ This repository is a honeypot for those trash code contributors
 ## Background
 
 This porject is just a social experiment.
-I intentionally left some typos and other quesitons to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.
+I intentionally left some typos and other issues to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.
 As long as you carefully read the contents of this readme, you will leave with an understanding.
 
+## Usage
+
+First, you need to get a Github account.
+
+Then, Here we go,! Simply run this JavaScript code with your Java runtime.
+
+```javascript
+import {Honeypotoberrest} from '/_honeypotoberfest-';
+s
+
+// Create a honeypost instance
+const honeypot = new Honeypotoperfest({
+  consumerKye: '',
+  consumersecret: '',;
+});
+```
 
 ## Structure
 
@@ -25,3 +41,7 @@ I'm putting a random image for some trash imformation.
 ## License
 
 MIT
+
+## At Last
+
+Thank you for reading this fancy documentation!
