@@ -46,7 +46,7 @@ Thank you for reading this fancy documentation!
 
 ## I'm not asking you
 
-⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️**
+⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️
 
 💰 To get approval of the pull request much quicker and faster (Send me money) 💰
 
