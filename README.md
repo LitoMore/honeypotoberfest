@@ -17,6 +17,8 @@ This porject is just a social experiment.
 I intentionally left some typos and other issues to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.
 As long as you carefully read the contents of this readme, you will leave with an understanding.
 
+Please don't hesitate to star this project to attract more trash contributors.
+
 ## Usage
 
 First, you need to get a Github account.
