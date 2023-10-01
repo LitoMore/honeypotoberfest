@@ -1,5 +1,3 @@
-**⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️**
-
 # Honeypotoberfest
 
 ![](https://github.com/LitoMore/honeypotoberfest/workflows/NotExist/badge.svg)
@@ -42,10 +40,16 @@ I'm putting a random image for some trash imformation.
 
 ![](https://raw.githubusercontent.com/LitoMore/honeypotoberfest/master/meida/flowchart.png)
 
+## Nonsense
+
+Thank you for reading this fancy documentation!
+
+## I'm not asking you
+
+⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️**
+
+💰 To get approval of the pull request much quicker and faster (Send me money) 💰
+
 ## License
 
 MIT
-
-## At Last
-
-Thank you for reading this fancy documentation!
