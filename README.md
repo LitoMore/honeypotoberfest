@@ -11,7 +11,7 @@ This repository is a honeypot for those trash code contributors
 
 ## Background
 
-This porject is just a social experiment.
+This project is just a social experiment.
 I intentionally left some typos and other issues to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.
 As long as you carefully read the contents of this readme, you will leave with an understanding.
 
