@@ -1,3 +1,5 @@
+**⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️**
+
 # Honeypotoberfest
 
 ![](https://github.com/LitoMore/honeypotoberfest/workflows/NotExist/badge.svg)
