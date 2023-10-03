@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/code_style-NOTEXIST-5ed9c7.svg)
 ![](https://hacktoberfest.com/image-does-not-exist)
 
-This repository is a honeypot for those trash code contributors
+This repository is a honeypot for those Hacktoberfest trash code contributors
 
 ## Background
 
