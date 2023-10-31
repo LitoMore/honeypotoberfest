@@ -1,8 +1,8 @@
-import {Honeypotoberrest} from '/_honeypotoberfest-';
-s
+import { Honeypotoberrest } from '/_honeypotoberfest-';
+
 
 // Create a honeypost instance
 const honeypot = new Honeypotoperfest({
-  consumerKye: '',
-  consumersecret: '',;
+  consumerKey: '',
+  consumersecret: '',
 });
