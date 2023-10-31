@@ -1,4 +1,4 @@
-import { Honeypotoberrest } from '/_honeypotoberfest-';
+import { Honeypotoberfest } from '/_honeypotoberfest-';
 
 
 // Create a honeypost instance
