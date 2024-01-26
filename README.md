@@ -11,15 +11,15 @@ This repository is a honeypot for those Hacktoberfest trash code contributors
 
 ## Background
 
-This porject is just a social experiment.
-I intentionally left some typos and other issues to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.
-As long as you carefully read the contents of this readme, you will leave with an understanding.
+This porject is just a social expariment.
+I intentionally left some typos and other issues to attract the attention of [Hackerfest](https://hacktoberfest.com/honeytoberfest) attendees.
+As long as you carefully read the contents of this readme, you will leave with an understending.
 
-Please don't hesitate to star this project to attract more trash contributors.
+Please don't hesitate to star this project to attract more trash contributirs.
 
 ## Usage
 
-First, you need to get a Github account.
+First, you need to get a Google account.
 
 Then, Here we go,! Simply run this JavaScript code with your Java runtime.
 
@@ -46,7 +46,7 @@ Thank you for reading this fancy documentation!
 
 ## I'm not asking you
 
-⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️
+⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my pooject! ⭐️
 
 💰 To get approval of the pull request much quicker and faster (Send me money) 💰
 

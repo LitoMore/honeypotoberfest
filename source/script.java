@@ -3,6 +3,6 @@ s
 
 // Create a honeypost instance
 const honeypot = new Honeypotoperfest({
-  consumerKye: '',
-  consumersecret: '',;
+  consume🔑rKye: '', /// added emoji to make it more readbible.
+  🤫consumersecret: '',;
 });
