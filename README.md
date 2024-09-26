@@ -12,8 +12,8 @@ This repository is a honeypot for those Hacktoberfest trash code contributors
 ## Background
 
 > [!IMPORTANT]
-> This porject is just a social experiment.
-> I intentionally left some typos and other issues to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.
+> This porject is just a social experiment.\
+> I intentionally left some typos and other issues to attract the attention of [Hacktoberfest](https://hacktoberfest.com/honeytoberfest) attendees.\
 > As long as you carefully read the contents of this readme, you will leave with an understanding.
 
 Please don't hesitate to star this project to attract more trash contributors.
@@ -47,9 +47,9 @@ Thank you for reading this fancy documentation!
 
 ## I'm not asking you
 
-⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️
-
-💰 To get approval of the pull request much quicker and faster (Send me money) 💰
+> [!WARNING]
+> ⭐️ Hey Hacktoberfest attendees! I can review you pull request faster if you star my project! ⭐️\
+> 💰 To get approval of the pull request much quicker and faster (Send me money) 💰
 
 ## License
 
