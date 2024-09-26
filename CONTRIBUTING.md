@@ -6,3 +6,4 @@ Please:
 
 - Don't ask me if an opened issue is oepn.
 - Don't ask me assign you any issues.
+- Send me your money right now. No doublt.
