@@ -37,7 +37,7 @@ const honeypot = new Honeypotoperfest({
 
 ## Structure
 
-I'm putting a random image for some trash imformation.
+I'm putting a random image for some trash information.
 
 ![](https://raw.githubusercontent.com/LitoMore/honeypotoberfest/master/meida/flowchart.webp)
 
