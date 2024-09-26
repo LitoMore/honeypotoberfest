@@ -41,6 +41,10 @@ I'm putting a random image for some trash imformation.
 
 ![](https://raw.githubusercontent.com/LitoMore/honeypotoberfest/master/meida/flowchart.webp)
 
+## Contributing
+
+See [CONTRIBUTING.md](https://github.com/LitoMore/honeypotoberfest/blob/main/CONTRIBUTING.md) to learn how contribute your code to this repository.
+
 ## Nonsense
 
 Thank you for reading this fancy documentation!
